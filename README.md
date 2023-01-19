@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [billoVM](https://github.com/zwirgioIlredelCodice/billoVM)
 
-- 🌱 I’m currently learning **the god old c**
+- 🌱 I’m currently learning **di tutto**
 
 - 📫 How to reach me **murer.fabio23@gmail.com**
 
